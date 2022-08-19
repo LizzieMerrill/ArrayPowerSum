@@ -6,7 +6,10 @@ class ArrayPowerSum {
     Scanner scnr = new Scanner(System.in);
     
     
-      System.out.println("Enter one of four numbers to put into the array to be summed: ");
+      System.out.println("Enter the first number to put into the array to be summed: ");
+      System.out.println("Enter the second number to put into the array to be summed: ");
+      System.out.println("Enter the third number to put into the array to be summed: ");
+      System.out.println("Enter the last number to put into the array to be summed: ");
       
     
     
